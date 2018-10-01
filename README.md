@@ -1,6 +1,6 @@
 # React-Bare-Bones-boilerplate
 
-A most basic boilerplate for react to use as a starting point to build great things
+A most basic (dev) boilerplate for react to use as a starting point to build great things
 
 This is a boilerplate project using the following technologies:
 - [React](https://facebook.github.io/react/) and [React Router](https://reacttraining.com/react-router/) for the frontend
