@@ -24,3 +24,5 @@ npm run dev
 ```
 
 Thats all folks
+
+No server set up in this project
